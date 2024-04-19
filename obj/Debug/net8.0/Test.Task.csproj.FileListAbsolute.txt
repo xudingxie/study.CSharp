@@ -1,0 +1,14 @@
+C:\Users\Nestar\source\repos\Test.Task\bin\Debug\net8.0\Test.Task.exe
+C:\Users\Nestar\source\repos\Test.Task\bin\Debug\net8.0\Test.Task.deps.json
+C:\Users\Nestar\source\repos\Test.Task\bin\Debug\net8.0\Test.Task.runtimeconfig.json
+C:\Users\Nestar\source\repos\Test.Task\bin\Debug\net8.0\Test.Task.dll
+C:\Users\Nestar\source\repos\Test.Task\bin\Debug\net8.0\Test.Task.pdb
+C:\Users\Nestar\source\repos\Test.Task\obj\Debug\net8.0\Test.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nestar\source\repos\Test.Task\obj\Debug\net8.0\Test.Task.AssemblyInfoInputs.cache
+C:\Users\Nestar\source\repos\Test.Task\obj\Debug\net8.0\Test.Task.AssemblyInfo.cs
+C:\Users\Nestar\source\repos\Test.Task\obj\Debug\net8.0\Test.Task.csproj.CoreCompileInputs.cache
+C:\Users\Nestar\source\repos\Test.Task\obj\Debug\net8.0\Test.Task.dll
+C:\Users\Nestar\source\repos\Test.Task\obj\Debug\net8.0\refint\Test.Task.dll
+C:\Users\Nestar\source\repos\Test.Task\obj\Debug\net8.0\Test.Task.pdb
+C:\Users\Nestar\source\repos\Test.Task\obj\Debug\net8.0\Test.Task.genruntimeconfig.cache
+C:\Users\Nestar\source\repos\Test.Task\obj\Debug\net8.0\ref\Test.Task.dll
